@@ -2,7 +2,7 @@
   <img src="assets/file_00.png" alt="Profile Cover" width="600"/>
 </p>
 
-# 👋 مرحباً، أنا Emad Siddig
+# Hi i'M Emad Siddig
 
 طالب مهتم بـ **Web Development** و **AI**.  
 أشارك مشاريعي هنا على GitHub وأتعلم تقنيات جديدة باستمرار.  
