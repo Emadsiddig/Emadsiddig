@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/file_00.png" alt="Profile Cover" width="600"/>
+  <img src="file_00.jpg" alt="Profile Cover" width="600"/>
 </p>
 
 # Hi i'M Emad Siddig
