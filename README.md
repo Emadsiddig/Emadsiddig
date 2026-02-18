@@ -25,5 +25,5 @@ I share my projects here on GitHub and constantly learn new technologies
   <a href="https://x.com/usernam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:emadsiddig72@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-https://www.linkedin.com/in/emad-siddig-10234535b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
