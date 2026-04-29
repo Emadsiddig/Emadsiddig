@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="file_00.jpg" alt="Profile Cover" width="600"/>
-</p>
 
 # Hi i'M Emad Siddig
 
